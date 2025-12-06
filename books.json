@@ -12,6 +12,47 @@
     "image": "ImageLivresAffiche/FrDevPers2.jpg"
   },
   {
+    "titre": "Les femmes les plus cruelles du histoires",
+    "auteur": "Allain le cerclo",
+    "prix": "20.00 TND",
+    "image": "ImageLivresAffiche/FrCrime1.jpg"
+  },
+  {
+    "titre": "Les secrets de grand crime de histoires",
+    "auteur": "Phillipe Charlier",
+    "prix": "43.00 TND",
+    "image": "ImageLivresAffiche/FrDevPers3.jpg"
+  },
+  {
+    "titre": "As you like it",
+    "auteur": "William shekspir",
+    "prix": "55.00 TND",
+    "image": "ImageLivresAffiche/AnglaisHistoire.jpg"
+  },
+  {
+    "titre": "Harry Poter",
+    "auteur": "J.K.Rowlling",
+    "prix": "65.00 TND",
+    "image": "ImageLivresAffiche/AnglaisHistoire2.jpg"
+  },
+  {
+    "titre": "حضارة العرب",
+    "auteur": "غوستاف لوبون",
+    "prix": "50.00 TND",
+    "image": "ImageLivresAffiche/ArabeAventure.jpg"
+  },
+  {
+    "titre": "رحالة العرب",
+    "auteur": "ابن بطوطة",
+    "prix": "55.00 TND",
+    "image": "ImageLivresAffiche/ArabeAventure3.jpg"
+  },
+  {
+    "titre": "ثلاثية الاندلس",
+    "auteur": "عبد الواحد براهم",
+    "prix": "65.00 TND",
+    "image": "ImageLivresAffiche/ArabeAventure2.jpg"
+  {
     "titre": "L'Art de la manipulation",
     "auteur": "James Clear",
     "prix": "40.00 TND",
