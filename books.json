@@ -3,18 +3,18 @@
     "titre": "Comment lire dans les pensées",
     "auteur": "Patrik King",
     "prix": "50.00 TND",
-    "image": "FrDevPers1.jpg"
+    "image": "ImageLivresAffiche/FrDevPers1.jpg"
   },
   {
     "titre": "Le pouvoir de l'echec",
     "auteur": "Arnaud Granata",
     "prix": "33.00 TND",
-    "image": "FrDevPers2.jpg"
+    "image": "ImageLivresAffiche/FrDevPers2.jpg"
   },
   {
     "titre": "L'Art de la manipulation",
     "auteur": "James Clear",
     "prix": "40.00 TND",
-    "image": "FrDevPers3.jpg"
+    "image": "ImageLivresAffiche/FrDevPers3.jpg"
   }
 ]
