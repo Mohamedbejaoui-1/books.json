@@ -1,0 +1,20 @@
+[
+  {
+    "titre": "Le Vieil Homme et la Mer",
+    "auteur": "Ernest Hemingway",
+    "prix": "29.00 TND",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "titre": "1984",
+    "auteur": "George Orwell",
+    "prix": "33.00 TND",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "titre": "Atomic Habits",
+    "auteur": "James Clear",
+    "prix": "40.00 TND",
+    "image": "https://picsum.photos/200"
+  }
+]
